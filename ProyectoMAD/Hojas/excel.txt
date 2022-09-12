@@ -1,0 +1,33 @@
+
+Imports System.IO
+Imports ExcelDataReader
+Imports Excel = Microsoft.Office.Interop.Excel
+
+Dim tables As DataTableCollection
+
+    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+
+        Using ofd As OpenFileDialog = New OpenFileDialog() With {.Filter = "Hoja de cálculo de Microsoft Excel (*.xlsx)|*.xlsx|Todos los archivos (*.*)|*.*"}
+            If ofd.ShowDialog() = DialogResult.OK Then
+                TextBox34.Text = ofd.FileName
+                Using stream = File.Open(ofd.FileName, FileMode.Open, FileAccess.Read)
+                    Using reader As IExcelDataReader = ExcelReaderFactory.CreateReader(stream)
+                        Dim result As DataSet = reader.AsDataSet(New ExcelDataSetConfiguration() With {
+                                                                     .ConfigureDataTable = Function(__) New ExcelDataTableConfiguration() With {
+                                                                     .UseHeaderRow = True}})
+                        tables = result.Tables
+                        ComboBox1.Items.Clear()
+                        For Each table As DataTable In tables
+                            ComboBox1.Items.Add(table.TableName)
+                        Next
+                    End Using
+                End Using
+            End If
+        End Using
+
+    End Sub
+
+    Private Sub ComboBox1_SelectedIndexChanged(sender As Object, e As EventArgs) Handles ComboBox1.SelectedIndexChanged
+        Dim dt As DataTable = tables(ComboBox1.SelectedItem.ToString())
+        DataGridView1.DataSource = dt
+    End Sub

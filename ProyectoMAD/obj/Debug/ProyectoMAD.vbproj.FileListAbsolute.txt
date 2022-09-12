@@ -1,0 +1,73 @@
+C:\Users\Samuel\Documents\Proyectos LMAD\Periodos\Proyectos feb-jun 2021\MAD\Proyecto MAD\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Resources.resources
+C:\Users\Samuel\Documents\Proyectos LMAD\Periodos\Proyectos feb-jun 2021\MAD\Proyecto MAD\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.vbproj.GenerateResource.cache
+C:\Users\Samuel\Documents\Proyectos LMAD\Periodos\Proyectos feb-jun 2021\MAD\Proyecto MAD\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.vbproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\Proyectos LMAD\Periodos\Proyectos feb-jun 2021\MAD\Proyecto MAD\ProyectoMAD\ProyectoMAD\bin\Debug\ProyectoMAD.exe.config
+C:\Users\Samuel\Documents\Proyectos LMAD\Periodos\Proyectos feb-jun 2021\MAD\Proyecto MAD\ProyectoMAD\ProyectoMAD\bin\Debug\ProyectoMAD.exe
+C:\Users\Samuel\Documents\Proyectos LMAD\Periodos\Proyectos feb-jun 2021\MAD\Proyecto MAD\ProyectoMAD\ProyectoMAD\bin\Debug\ProyectoMAD.pdb
+C:\Users\Samuel\Documents\Proyectos LMAD\Periodos\Proyectos feb-jun 2021\MAD\Proyecto MAD\ProyectoMAD\ProyectoMAD\bin\Debug\ProyectoMAD.xml
+C:\Users\Samuel\Documents\Proyectos LMAD\Periodos\Proyectos feb-jun 2021\MAD\Proyecto MAD\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_INDEX.resources
+C:\Users\Samuel\Documents\Proyectos LMAD\Periodos\Proyectos feb-jun 2021\MAD\Proyecto MAD\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.exe
+C:\Users\Samuel\Documents\Proyectos LMAD\Periodos\Proyectos feb-jun 2021\MAD\Proyecto MAD\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.xml
+C:\Users\Samuel\Documents\Proyectos LMAD\Periodos\Proyectos feb-jun 2021\MAD\Proyecto MAD\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.pdb
+C:\Users\Samuel\Documents\Proyectos LMAD\Periodos\Proyectos feb-jun 2021\MAD\Proyecto MAD\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_IniciarSesion.resources
+C:\Users\Samuel\Documents\Proyectos LMAD\Periodos\Proyectos feb-jun 2021\MAD\Proyecto MAD\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_Informacion.resources
+C:\Users\Samuel\Documents\Proyectos LMAD\Periodos\Proyectos feb-jun 2021\MAD\Proyecto MAD\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_InicioCliente.resources
+C:\Users\Samuel\Documents\Proyectos LMAD\Periodos\Proyectos feb-jun 2021\MAD\Proyecto MAD\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_AltaCliente.resources
+C:\Users\Samuel\Documents\Proyectos LMAD\Periodos\Proyectos feb-jun 2021\MAD\Proyecto MAD\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_RegistroCliente.resources
+C:\Users\Samuel\Documents\Proyectos LMAD\Periodos\Proyectos feb-jun 2021\MAD\Proyecto MAD\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_InicioEmpleado.resources
+C:\Users\Samuel\Documents\Proyectos LMAD\Periodos\Proyectos feb-jun 2021\MAD\Proyecto MAD\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_GestionDeClientes.resources
+C:\Users\Samuel\Documents\Proyectos LMAD\Periodos\Proyectos feb-jun 2021\MAD\Proyecto MAD\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_EliminarCliente.resources
+C:\Users\Samuel\Documents\Proyectos LMAD\Periodos\Proyectos feb-jun 2021\MAD\Proyecto MAD\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_ModificarCliente.resources
+C:\Users\Samuel\Documents\Proyectos LMAD\Periodos\Proyectos feb-jun 2021\MAD\Proyecto MAD\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_InicioAdmin.resources
+C:\Users\Samuel\Documents\Proyectos LMAD\Periodos\Proyectos feb-jun 2021\MAD\Proyecto MAD\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_AgregarEmpleado.resources
+C:\Users\Samuel\Documents\Proyectos LMAD\Periodos\Proyectos feb-jun 2021\MAD\Proyecto MAD\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.vbprojAssemblyReference.cache
+C:\Users\Samuel\Documents\Proyectos LMAD\Periodos\Proyectos feb-jun 2021\MAD\Proyecto MAD\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_OlvideContraseña.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\bin\Debug\ProyectoMAD.exe.config
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\bin\Debug\ProyectoMAD.exe
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\bin\Debug\ProyectoMAD.pdb
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\bin\Debug\ProyectoMAD.xml
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.vbprojAssemblyReference.cache
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_AgregarEmpleado.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_OlvideContraseña.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_InicioAdmin.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_EliminarCliente.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_GestionDeClientes.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_INDEX.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Resources.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_Informacion.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_IniciarSesion.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_InicioCliente.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_AltaCliente.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_InicioEmpleado.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_ModificarCliente.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_RegistroCliente.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.vbproj.GenerateResource.cache
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.vbproj.CoreCompileInputs.cache
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.exe
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.xml
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.pdb
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_AltaEmpleado.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_DesbloquearEmpleado.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_EliminarEmpleado.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_ModificarEmpleado.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_GenerarContrato.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_GenerarRecibo.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_Pago.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_DesbloquearCliente.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_GenerarTarifa.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_Recibo.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_GestionReportes.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_ReporteHistorico.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_ConsumoHistorico.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_ReporteGeneral.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\bin\Debug\itextsharp.dll
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.vbproj.CopyComplete
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_CargaMasiva.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_GestionCarga.resources
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\bin\Debug\ExcelDataReader.dll
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\bin\Debug\ExcelDataReader.pdb
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\bin\Debug\ExcelDataReader.xml
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\bryan\OneDrive\Escritorio\ProyectoMAD\ProyectoMAD\obj\Debug\ProyectoMAD.Pagina_CargarConsumos.resources

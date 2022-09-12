@@ -1,0 +1,2 @@
+id_tarifa,tarifa_basica,tarifa_intermedia,tarifa_excedente,numero_medidor
+1,0.85,0.45,0.29,10
